@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento',cursive;
+    font-size: 4.625rem;
+    margin-top: 50px;
+    color: #4D4C7D;
+  }
+  .depart,.subtitle {
+    font-family: cursive;
+  }
+
+  .subtitle {
+    font-weight: 'Sacramento';
+  }
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #4D4C7D;
+  }
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #4D4C7D;
+  }
+  hr {
+    border: none;
+    border-top: 10px dotted #EAF6F6;
+    width: 10%;
+  
+  }
+  .top-container {
+    background-color: #E9D5CA;
+    position: relative;
+    padding: 50px;
+  }
+  .top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 250px;
+  }
+  .middle-container {
+    margin-top: 50px;
+  }
+  .profile {
+    padding: 10px;
+  }
+  .profilepic {
+    width: 15%;
+  }
+  .skills {
+    padding: 50px 50px 0 50px;
+  }
+  .skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  .python {
+    width: 21%;
+    float: left;
+    margin-right: 40px;
+  }
+  .html {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  .css{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+  }
+  .c {
+    width: 18%;
+    float: left;
+    margin-right: 40px;
+  }
+  .contact-me {
+    padding: 30px;
+  }
+  .contact-me p {
+    margin: 40px;
+  }
+  .bottom-container {
+    background-color: #827397;
+    padding: 40px;
+  }
+  #cp-right{
+    color: #363062 ;
+  }
+  .bottom-container p {
+    margin: 0;
+    margin-top: 30px;
+    color: #4D4C7D;
+  }
+  .footer-link {
+    color: #363062;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: 700;
+  }
+  .footer-link:hover {
+    color: #EAF6F6;
+    transition: 1s;
+  }
+  .btn {
+     background: #363062;
+     border-radius: 8px;
+     height: 50px;
+     line-height: 50px;
+     color: #f0eaf6;
+     font-family: 'Montserrat', sans-serif;
+     width: 200px;
+     font-size: 20px;
+     font-weight: 500;
+     padding: 5px 10px 5px 10px;
+     margin-top: 20px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
+  
+  .btn:hover {
+     background: #827397;
+     border-radius: 8px;
+     text-decoration: none;
+     transition: 0.5s;
+  }
+  
+  .mountain{
+    width: 300px;
+    height:200px;
+  }
+
